@@ -65,6 +65,12 @@ Provides both a **human-readable clean version** and an **ML-ready dataset with 
 
 ---
 
+## 💳 [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/bornaetminan/credit-card-fraud-detectioncleaned-and-ml-ready)
+A highly imbalanced financial transactions dataset designed for fraud detection research and machine learning modeling.  
+Includes PCA-transformed features (`V1–V28`), transaction time, amount, and binary fraud label.
+- Approximate number of lines: 1,135,000
+
+---
 ## ✅ Key Features Across All Datasets
 - Cleaned & normalized text
 - Duplicate and noise removal
