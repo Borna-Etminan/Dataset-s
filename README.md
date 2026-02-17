@@ -70,6 +70,11 @@ A highly imbalanced financial transactions dataset designed for fraud detection 
 Includes PCA-transformed features (`V1–V28`), transaction time, amount, and binary fraud label.
 - Approximate number of lines: 1,135,000
 
+## 💳 [ChurnGuard — Cleaned & ML-Ready Telco Customer Churn Dataset](http://kaggle.com/datasets/bornaetminan/churnguard-clean-and-ml-ready-telco-customer-churn)
+Professionally preprocessed customer retention dataset with feature engineering, encoding, scaling, and SQLite support for ML pipelines.  
+Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+-  Approximate number of lines: 28,180
+
 ---
 ## ✅ Key Features Across All Datasets
 - Cleaned & normalized text
