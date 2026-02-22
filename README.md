@@ -75,6 +75,11 @@ Professionally preprocessed customer retention dataset with feature engineering,
 Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 -  Approximate number of lines: 28,180
 
+## 📜 [HotelGuard — A cleaned and ML-ready version of the Hotel Booking Demand dataset prepared]
+Cleaned and machine-learning-ready version of a hotel booking dataset designed for cancellation prediction and revenue analytics.
+Includes feature engineering, encoding, scaling, and database-ready structured export.
+- Approximate number of lines: 350,000
+
 ---
 ## ✅ Key Features Across All Datasets
 - Cleaned & normalized text
