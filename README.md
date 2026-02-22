@@ -78,7 +78,7 @@ Professionally preprocessed customer retention dataset with feature engineering,
 
 ---
 
-## 📜 [HotelGuard — A cleaned and ML-ready version of the Hotel Booking Demand dataset prepared]
+## 📜 [HotelGuard — A cleaned and ML-ready version of the Hotel Booking Demand dataset prepared](https://www.kaggle.com/datasets/bornaetminan/hotelbookingguard-cleaned-and-ml-ready)
 Cleaned and machine-learning-ready version of a hotel booking dataset designed for cancellation prediction and revenue analytics.
 Includes feature engineering, encoding, scaling, and database-ready structured export.
 - Approximate number of lines: 350,000
