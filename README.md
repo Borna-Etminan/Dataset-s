@@ -84,6 +84,13 @@ Includes feature engineering, encoding, scaling, and database-ready structured e
 - Approximate number of lines: 350,000
 
 ---
+
+## 💳 [Advanced Credit Default Intelligence Dataset](https://www.kaggle.com/datasets/bornaetminan/advanced-credit-default-intelligence-dataset)
+A professionally cleaned and feature-engineered credit risk dataset optimized for predictive modeling.
+Includes ML-ready CSV and SQLite formats with encoded categorical variables and standardized numerical features.
+- Approximate number of lines: 130,000
+
+---
 ## ✅ Key Features Across All Datasets
 - Cleaned & normalized text
 - Duplicate and noise removal
