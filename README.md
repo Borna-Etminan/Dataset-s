@@ -91,6 +91,13 @@ Includes ML-ready CSV and SQLite formats with encoded categorical variables and 
 - Approximate number of lines: 130,000
 
 ---
+
+## 🎓 [Student Performance Factors (Clean & ML/DL-Ready)](https://www.kaggle.com/datasets/bornaetminan/student-performance-clean-and-mldl-ready)
+Cleaned and standardized student performance data covering academic, lifestyle, and educational factors.  
+Includes a **clean dataset for analysis** and an **ML/DL-ready version with encoded features and explainability support**.  
+- Approximate number of lines: +482,000
+
+---
 ## ✅ Key Features Across All Datasets
 - Cleaned & normalized text
 - Duplicate and noise removal
