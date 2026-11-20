@@ -98,6 +98,13 @@ Includes a **clean dataset for analysis** and an **ML/DL-ready version with enco
 - Approximate number of lines: +482,000
 
 ---
+
+## 🚗 [NCR Ride Bookings (Cleaned & ML-Ready)](https://www.kaggle.com/datasets/bornaetminan/ncr-ride-bookings-cleaned-and-ml-ready-150k-record)
+Cleaned and standardized ride-booking data containing **150K records** covering booking details, ride outcomes, vehicle types, locations, and customer and driver ratings.  
+Includes a **clean dataset for EDA and analysis** and an **ML-ready version for multiclass booking status prediction**, available in CSV and SQLite formats.
+- Approximate number of lines: 600,000
+
+---
 ## ✅ Key Features Across All Datasets
 - Cleaned & normalized text
 - Duplicate and noise removal
@@ -106,13 +113,13 @@ Includes a **clean dataset for analysis** and an **ML/DL-ready version with enco
 - CSV and database-friendly formats
 
 ---
-
-## 🔗 Connect With Me
-
-- 📝 Substack: https://substack.com/@bornaetminan
-- 💻 Kaggle: https://kaggle.com/bornaetminan
-- 🧠 GitHub: https://github.com/Borna-Etminan  
-- 🔗 My Resume: https://github.com/Borna-Etminan
+## 📫 Contact me
+* ✉️ Email: borna.etminan34@gmail.com
+* 📱 Telegram: https://t.me/BornaEtminan
+* 🌊 Olio Profile: https://olio.my/talent/Borna-Etminan
+* 📘 Blog on Substack: https://substack.com/@bornaetminan
+* ✉️ Kaggle username: https://www.kaggle.com/bornaetminan
+* 👨‍💻 DevDex account: https://devdex.tech/Borna-Etminan/about
 
 ---
 
