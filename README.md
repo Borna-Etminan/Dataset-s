@@ -105,6 +105,13 @@ Includes a **clean dataset for EDA and analysis** and an **ML-ready version for 
 - Approximate number of lines: 600,000
 
 ---
+
+## 🛒 [Olist E-Commerce (Cleaned & ML-Ready)](https://www.kaggle.com/datasets/bornaetminan/olist-e-commerce-clean-and-ml-ready)
+Cleaned and standardized Brazilian e-commerce data covering customers, orders, products, sellers, payments, reviews, and delivery information.  
+Includes **clean datasets for EDA and analysis** and **ML-ready datasets for predictive modeling**, along with integrated datasets for deeper insights.
+- Approximate number of lines: 2,160,000
+
+---
 ## ✅ Key Features Across All Datasets
 - Cleaned & normalized text
 - Duplicate and noise removal
