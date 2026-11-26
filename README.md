@@ -112,6 +112,14 @@ Includes **clean datasets for EDA and analysis** and **ML-ready datasets for pre
 - Approximate number of lines: 2,160,000
 
 ---
+
+## 💳 [Credit Default (Clean & ML-Ready)](https://www.kaggle.com/datasets/bornaetminan/credit-default-clean-and-ml-ready)
+Cleaned and feature-engineered version of the Taiwan credit card default dataset, prepared for analysis and machine learning.  
+Includes a **clean dataset for analysis** and **ML-ready train, validation, and test splits** with preprocessing and feature documentation.
+- Approximate number of lines: 150,300
+
+---
+
 ## ✅ Key Features Across All Datasets
 - Cleaned & normalized text
 - Duplicate and noise removal
